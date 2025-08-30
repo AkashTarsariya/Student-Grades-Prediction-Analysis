@@ -73,7 +73,7 @@ Compare performance across models
 
 Clone this repository:
 
-git clone https://github.com/your-username/student-grades-prediction.git
+git clone [https://github.com/your-username/student-grades-prediction.git](https://github.com/AkashTarsariya/Student-Grades-Prediction-Analysis.git)
 cd student-grades-prediction
 
 
