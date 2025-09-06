@@ -102,3 +102,7 @@ Deploy as a web app for interactive grade prediction.
 Extend to other datasets or real-time school performance monitoring.
 
 Explore deep learning models for improved accuracy.
+
+## 📸 Sample Dashboard Preview
+
+- ![Power BI Dashboard](https://github.com/AkashTarsariya/Survival-Analytics-Titanic-Dataset-Power-BI-Dashboard/blob/main/Titanic%20Survival%20Insights%20Dashboard%20PNG.png)
