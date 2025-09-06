@@ -103,6 +103,10 @@ Extend to other datasets or real-time school performance monitoring.
 
 Explore deep learning models for improved accuracy.
 
-## 📸 Sample Dashboard Preview
+## 📸 Sample Project Image Files 
 
-- ![Power BI Dashboard](https://github.com/AkashTarsariya/Survival-Analytics-Titanic-Dataset-Power-BI-Dashboard/blob/main/Titanic%20Survival%20Insights%20Dashboard%20PNG.png)
+- ![Power BI Dashboard](https://github.com/AkashTarsariya/Student-Grades-Prediction-Analysis/blob/main/PROJECT%20IMAGES/01.png)
+- ![Power BI Dashboard](https://github.com/AkashTarsariya/Student-Grades-Prediction-Analysis/blob/main/PROJECT%20IMAGES/02.png)
+- ![Power BI Dashboard](https://github.com/AkashTarsariya/Student-Grades-Prediction-Analysis/blob/main/PROJECT%20IMAGES/03.png)
+- ![Power BI Dashboard](https://github.com/AkashTarsariya/Student-Grades-Prediction-Analysis/blob/main/PROJECT%20IMAGES/06.png)
+- ![Power BI Dashboard](https://github.com/AkashTarsariya/Student-Grades-Prediction-Analysis/blob/main/PROJECT%20IMAGES/07.png)
